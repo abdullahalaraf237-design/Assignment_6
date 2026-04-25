@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Design Toolkit",
+    "description": "Professional design tools for creating stunning visuals",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "Drag & drop editor", "Brand kit", "Export options"],
+    "iconKey": "designTool"
+  },
+  {
+    "id": 2,
+    "name": "Operations Suite",
+    "description": "Streamline your workflow with powerful operations",
+    "price": 49,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Real-time analytics", "Team collaboration", "Workflow automation", "API access"],
+    "iconKey": "operation"
+  },
+  {
+    "id": 3,
+    "name": "Portfolio Builder",
+    "description": "Showcase your work with an impressive portfolio",
+    "price": 19,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "bestseller",
+    "features": ["Mobile responsive", "SEO optimized", "Custom domain", "Analytics dashboard"],
+    "iconKey": "portfolio"
+  },
+  {
+    "id": 4,
+    "name": "Smart Commerce",
+    "description": "Complete e-commerce solution for your business",
+    "price": 99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Shopping cart", "Payment processing", "Inventory management", "Order tracking"],
+    "iconKey": "shoppingCart"
+  },
+  {
+    "id": 5,
+    "name": "Social Media Kit",
+    "description": "Create and manage all your social media content",
+    "price": 24,
+    "period": "yearly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Post scheduler", "Content calendar", "Analytics", "Multi-platform support"],
+    "iconKey": "socialMedia"
+  },
+  {
+    "id": 6,
+    "name": "AI Writing Helper",
+    "description": "Generate professional content with AI assistance",
+    "price": 39,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["AI-powered writing", "Grammar check", "SEO suggestions", "Content templates"],
+    "iconKey": "writing"
+  }
+]
