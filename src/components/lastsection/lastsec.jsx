@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react'  
 
-export default function Lastsec() {
+export default function Lastsec() { 
   return (
     <footer
       className='mt-12 rounded-2xl px-5 py-8 text-white sm:px-8 sm:py-10 lg:px-10 lg:py-12'
@@ -34,7 +34,7 @@ export default function Lastsec() {
             <li>Contact</li>
           </ul>
         </div>
-
+ 
         <div className='text-center md:text-left'>
           <h4 className='text-lg font-semibold'>Resources</h4>
           <ul className='mt-3 space-y-2 text-sm text-slate-300 sm:mt-4'>
